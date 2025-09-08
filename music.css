@@ -55,11 +55,4 @@
         transform: scaleY(2);
     }
 }
-@keyframes track{
-    from{
-        transform: translate(0px);
-    }
-    to{
-        transform: translate(1px);
-    }
-}
+
